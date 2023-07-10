@@ -1,0 +1,10 @@
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csprojAssemblyReference.cache
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\Jowie\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
