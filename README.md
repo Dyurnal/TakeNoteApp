@@ -1,2 +1,2 @@
 # TakeNoteApp
-A simple taking note apps in windows form
+This is my first project it's but I learn a lot while doing this.
